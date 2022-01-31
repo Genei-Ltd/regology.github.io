@@ -1,0 +1,1452 @@
+{
+    "version": {
+        "json_export": "171",
+        "page_segmentation": "5",
+        "schema": "1.0.0",
+        "structure": "1.949.0",
+        "table_structure": "5"
+    },
+    "extended_metadata": {
+        "ID_instance": "72 F5 10 22 4F B3 B2 11 0A 00 67 45 8B 6B C6 23 ",
+        "ID_permanent": "41 42 20 46 37 20 30 45 20 32 32 20 34 46 20 42 33 20 42 32 20 31 31 20 30 41 20 30 30 20 36 37 20 34 35 20 38 42 20 36 42 20 43 36 20 32 33 20 ",
+        "pdf_version": "1.6",
+        "pdfa_compliance_level": "",
+        "is_encrypted": false,
+        "has_acroform": false,
+        "is_digitally_signed": false,
+        "pdfua_compliance_level": "",
+        "page_count": 4,
+        "has_embedded_files": false,
+        "is_certified": false,
+        "is_XFA": false,
+        "language": "EN-US"
+    },
+    "elements": [
+        {
+            "Bounds": [
+                53.1290283203125,
+                710.7880096435547,
+                120.34458923339844,
+                767.6400146484375
+            ],
+            "ClipBounds": [
+                53.1290283203125,
+                710.7880096435547,
+                120.34458923339844,
+                767.6400146484375
+            ],
+            "Page": 0,
+            "Path": "//Document/Sect/Figure",
+            "attributes": {
+                "BBox": [
+                    53.15779999999904,
+                    710.7629999999772,
+                    120.35499999999956,
+                    767.6409999999742
+                ],
+                "Placement": "Block"
+            }
+        },
+        {
+            "Bounds": [
+                217.3240966796875,
+                726.2700042724609,
+                396.965576171875,
+                745.4290924072266
+            ],
+            "Font": {
+                "alt_family_name": "Copperplate Gothic",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Copperplate Gothic",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "WHSQNQ+CopperplateGothic-Bold",
+                "subset": true,
+                "weight": 700
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/P",
+            "Text": "DEPARTMENT OF THE TREASURY WASHINGTON, D.C. ",
+            "TextSize": 7.55999755859375,
+            "attributes": {
+                "LineHeight": 8.875,
+                "SpaceAfter": 18
+            }
+        },
+        {
+            "Bounds": [
+                72.0,
+                684.9839935302734,
+                264.36000061035156,
+                701.5919952392578
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[2]/H1",
+            "Text": "Enforcement Release: July 23, 2021* ",
+            "TextSize": 12.0,
+            "attributes": {
+                "SpaceAfter": 18
+            }
+        },
+        {
+            "Bounds": [
+                143.8800048828125,
+                629.7839965820312,
+                471.0240783691406,
+                660.1920013427734
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PS",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PS",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "WFMGNQ+TimesNewRomanPS-BoldMT",
+                "subset": true,
+                "weight": 700
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[3]/H1",
+            "Text": "OFAC Enters Into $1,385,901.40 Settlement with Payoneer Inc. for Apparent Violations of Multiple Sanctions Programs ",
+            "TextSize": 12.0,
+            "attributes": {
+                "LineHeight": 13.75,
+                "TextAlign": "Center"
+            }
+        },
+        {
+            "Bounds": [
+                72.0,
+                450.63600158691406,
+                542.6880035400391,
+                618.6000061035156
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[3]/P",
+            "Text": "Payoneer Inc. (“Payoneer”), a publicly traded New York-based online money transmitter and provider of prepaid access, has agreed to remit $1,385,901.40 to settle its potential civil liability for 2,220 apparent violations of multiple sanctions programs. Payoneer processed 2,201 payments for parties located in certain jurisdictions and regions subject to sanctions including the Crimea region of Ukraine, Iran, Sudan, and Syria, and 19 payments on behalf of sanctioned persons on OFAC’s List of Specially Designated Nationals and Blocked Persons (“SDN List”).  Payoneer’s sanctions compliance program deficiencies at the relevant times—including with respect to screening, testing, auditing, and transaction review procedures—enabled persons in these jurisdictions and regions and on the SDN List to engage in approximately $793,950.70 worth of transactions.  The settlement amount reflects OFAC’s determination that 2,201 of Payoneer’s apparent violations were not voluntarily self-disclosed, 19 were voluntarily self-disclosed, and all transactions were non-egregious. ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                72.0,
+                422.78399658203125,
+                397.8355407714844,
+                439.3919982910156
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PS",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PS",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "WFMGNQ+TimesNewRomanPS-BoldMT",
+                "subset": true,
+                "weight": 700
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[4]/H1",
+            "Text": "Description of the Conduct Leading to the Apparent Violations ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                72.0,
+                326.4360046386719,
+                540.3600006103516,
+                411.6000061035156
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[4]/P",
+            "Text": "Between February 4, 2013 and February 20, 2018, Payoneer processed 2,220 transactions totaling $793,950.70 in apparent violation of multiple OFAC-administered sanctions programs (the “Apparent Violations”). Payoneer’s policies and procedures dating back as far as June 2015 specified that transactions involving parties in sanctioned locations were prohibited, but the testing and auditing conducted to verify that these policies and procedures were being implemented failed to identify the compliance deficiencies that led to the Apparent Violations.  ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                72.0,
+                202.23599243164062,
+                540.0,
+                315.0
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[4]/P[2]",
+            "Text": "The Apparent Violations, which related to commercial transactions processed by Payoneer on behalf of its corporate customers and card-issuing financial institutions, resulted from multiple sanctions compliance control breakdowns, including (i) weak algorithms that allowed close matches to SDN List entries not to be flagged by its filter, (ii) failure to screen for Business Identifier Codes (BICs) even when SDN List entries contained them, (iii) during backlog periods, allowing flagged and pended payments to be automatically released without review, and (iv) lack of focus on sanctioned locations, especially Crimea, because it was not monitoring IP addresses or flagging addresses in sanctioned locations.  ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                72.0,
+                105.63600158691406,
+                541.3200073242188,
+                190.8000030517578
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 0,
+            "Path": "//Document/Sect[4]/P[3]/ParagraphSpan",
+            "Text": "These compliance deficiencies resulted in apparent violations of Section 1(a)(iii) and Section 2 of Executive Order 13685 of December 19, 2014, “Blocking Property of Certain Persons and Prohibiting Certain Transactions with Respect to the Crimea Region of Ukraine”; the Zimbabwe Sanctions Regulations, 31 C.F.R. § 541.201; the Weapons of Mass Destruction Proliferators Sanctions Regulations, 31 C.F.R. § 544.201; the Iranian Transactions and Sanctions Regulations, 31 C.F.R. § 560.204; the now-repealed Sudanese Sanctions Regulations (SSR), 31 C.F.R. § ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                72.0,
+                705.156005859375,
+                414.0,
+                721.7619934082031
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/P[3]/ParagraphSpan[2]",
+            "Text": "538.205;1 (<>)and the Syrian Sanctions Regulations, 31 C.F.R. § 542.207.  ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                72.0,
+                47.70228576660156,
+                531.0214233398438,
+                61.11839294433594
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[4]/Footnote",
+            "Text": "* This Enforcement Release corrects an initial release related to this settlement originally issued on July 23, 2021. ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 12
+            }
+        },
+        {
+            "Bounds": [
+                72.0,
+                677.3040008544922,
+                330.7080841064453,
+                693.9120025634766
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PS",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PS",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "WFMGNQ+TimesNewRomanPS-BoldMT",
+                "subset": true,
+                "weight": 700
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 1,
+            "Path": "//Document/Sect[5]/H1",
+            "Text": "Penalty Calculation and General Factors Analysis ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                72.0,
+                580.9559936523438,
+                540.7801513671875,
+                666.1199951171875
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 1,
+            "Path": "//Document/Sect[5]/P",
+            "Text": "The statutory maximum civil monetary penalty applicable in this matter is $654,357,316.  OFAC determined that 2,201 of the Apparent Violations were not voluntarily self-disclosed, 19 were voluntarily self-disclosed, and all were non-egregious.  Accordingly, under OFAC’s Economic Sanctions Enforcement Guidelines (“Enforcement Guidelines”), the base civil monetary penalty amount applicable in this matter is $3,849,726. The settlement amount of $1,385,901.40 reflects OFAC’s consideration of the General Factors under the Enforcement Guidelines.  ",
+            "TextSize": 12.0,
+            "attributes": {
+                "SpaceAfter": 18
+            }
+        },
+        {
+            "Bounds": [
+                72.0,
+                553.10400390625,
+                366.7680206298828,
+                569.7120056152344
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 1,
+            "Path": "//Document/Sect[5]/P[2]",
+            "Text": "OFAC determined the following to be aggravating factors:  ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                90.0,
+                525.7559967041016,
+                102.99591064453125,
+                541.9199981689453
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[5]/L/LI/Lbl",
+            "Text": "1) ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                108.0,
+                484.3560028076172,
+                509.6280975341797,
+                541.9199981689453
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[5]/L/LI/LBody",
+            "Text": "Payoneer failed to exercise a minimal degree of caution or care for its sanctions compliance obligations when it allowed persons on the SDN List and persons in sanctioned locations to open accounts and transact as a result of deficient sanctions compliance processes that persisted for a number of years; ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                90.0,
+                456.75599670410156,
+                102.99591064453125,
+                472.9199981689453
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[5]/L/LI[2]/Lbl",
+            "Text": "2) ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                108.0,
+                415.3560028076172,
+                529.5959167480469,
+                472.9199981689453
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[5]/L/LI[2]/LBody",
+            "Text": "Payoneer had reason to know the location of the users it subsequently identified as located in jurisdictions and regions subject to sanctions based on common indicators of location within its possession, including billing, shipping, or IP addresses, or copies of identification issued in jurisdictions and regions subject to sanctions; and ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                90.0,
+                387.75599670410156,
+                102.99591064453125,
+                403.9199981689453
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[5]/L/LI[3]/Lbl",
+            "Text": "3) ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                108.0,
+                387.75599670410156,
+                466.0800018310547,
+                403.9199981689453
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[5]/L/LI[3]/LBody",
+            "Text": "The Apparent Violations caused harm to six different sanctions programs. ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                72.0,
+                359.9040069580078,
+                358.1280212402344,
+                376.5119934082031
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 1,
+            "Path": "//Document/Sect[5]/P[3]",
+            "Text": "OFAC determined the following to be mitigating factors:  ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                90.0,
+                332.5559997558594,
+                102.99591064453125,
+                348.7200012207031
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[5]/L[2]/LI/Lbl",
+            "Text": "1) ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                108.0,
+                304.95599365234375,
+                535.0800018310547,
+                348.7200012207031
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[5]/L[2]/LI/LBody",
+            "Text": "Upon discovering potential sanctions compliance issues, senior management acted quickly to self-disclose the Apparent Violations related to blocked persons and provided substantial cooperation throughout the investigation; ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                90.0,
+                277.3560028076172,
+                102.99591064453125,
+                293.52000427246094
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[5]/L[2]/LI[2]/Lbl",
+            "Text": "2) ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                108.0,
+                249.75599670410156,
+                521.5680084228516,
+                293.52000427246094
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[5]/L[2]/LI[2]/LBody",
+            "Text": "Payoneer has not received a penalty notice or Finding of Violation from OFAC in the five years preceding the date of the earliest transaction giving rise to the Apparent Violations; ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                90.0,
+                222.156005859375,
+                102.99591064453125,
+                238.32000732421875
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[5]/L[2]/LI[3]/Lbl",
+            "Text": "3) ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                108.0,
+                194.55599975585938,
+                536.6620941162109,
+                238.32000732421875
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[5]/L[2]/LI[3]/LBody/ParagraphSpan",
+            "Text": "Payoneer has represented that it has terminated the conduct that led to the Apparent Violations and undertook the following remedial measures intended to minimize the risk of recurrence of similar conduct in the future: ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                108.0,
+                705.3600006103516,
+                116.52000427246094,
+                720.0599975585938
+            ],
+            "Font": {
+                "alt_family_name": "Symbol",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "Symbol MT",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "CJKLOE+SymbolMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[5]/L[2]/LI[3]/LBody/L/LI/Lbl",
+            "Text": "• ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                126.0,
+                690.5160064697266,
+                523.7999267578125,
+                720.4799957275391
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[5]/L[2]/LI[3]/LBody/L/LI/LBody",
+            "Text": "Replacing its Chief Compliance Officer, retraining all compliance employees, and hiring new compliance positions focused specifically on testing; ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                108.0,
+                676.9199981689453,
+                116.52000427246094,
+                691.6199951171875
+            ],
+            "Font": {
+                "alt_family_name": "Symbol",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "Symbol MT",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "CJKLOE+SymbolMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[5]/L[2]/LI[3]/LBody/L/LI[2]/Lbl",
+            "Text": "• ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                126.0,
+                648.2760009765625,
+                536.9640960693359,
+                692.0399932861328
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[5]/L[2]/LI[3]/LBody/L/LI[2]/LBody",
+            "Text": "Enhancing its screening software to include financial institution alias names and BIC codes and automatically triggering a manual review of payments or accounts that match persons on the SDN List; ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                108.0,
+                634.6799926757812,
+                116.52000427246094,
+                649.3800048828125
+            ],
+            "Font": {
+                "alt_family_name": "Symbol",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "Symbol MT",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "CJKLOE+SymbolMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[5]/L[2]/LI[3]/LBody/L/LI[3]/Lbl",
+            "Text": "• ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                126.0,
+                606.0359954833984,
+                533.1600036621094,
+                649.8000030517578
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[5]/L[2]/LI[3]/LBody/L/LI[3]/LBody",
+            "Text": "Enabling the screening of names, shipping and billing addresses, and IP information associated with account holders to identify jurisdictions and regions subject to sanctions; ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                108.0,
+                592.4400024414062,
+                116.52000427246094,
+                607.1399993896484
+            ],
+            "Font": {
+                "alt_family_name": "Symbol",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "Symbol MT",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "CJKLOE+SymbolMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[5]/L[2]/LI[3]/LBody/L/LI[4]/Lbl",
+            "Text": "• ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                126.0,
+                577.4759979248047,
+                538.9199981689453,
+                607.5599975585938
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[5]/L[2]/LI[3]/LBody/L/LI[4]/LBody",
+            "Text": "Pending transactions flagged by its filter instead of allowing them to complete during a backlog; and ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                108.0,
+                563.8800048828125,
+                116.52000427246094,
+                578.5800018310547
+            ],
+            "Font": {
+                "alt_family_name": "Symbol",
+                "embedded": true,
+                "encoding": "Identity-H",
+                "family_name": "Symbol MT",
+                "font_type": "CIDFontType2",
+                "italic": false,
+                "monospaced": false,
+                "name": "CJKLOE+SymbolMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[5]/L[2]/LI[3]/LBody/L/LI[5]/Lbl",
+            "Text": "• ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                126.0,
+                535.2359924316406,
+                536.2799987792969,
+                579.0
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[5]/L[2]/LI[3]/LBody/L/LI[5]/LBody",
+            "Text": "A daily review of identification documents uploaded to Payoneer, and a rule engine that stops payments with identification indicating jurisdictions and regions subject to sanctions. ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                90.0,
+                507.63600158691406,
+                102.99591064453125,
+                523.8000030517578
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[5]/L[2]/LI[4]/Lbl",
+            "Text": "4) ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                108.0,
+                493.83599853515625,
+                482.6280975341797,
+                523.8000030517578
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[5]/L[2]/LI[4]/LBody",
+            "Text": "As part of its agreement with OFAC, Payoneer has undertaken to continue its implementation of these and other compliance commitments. ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                72.0,
+                71.08320617675781,
+                542.5404357910156,
+                141.99839782714844
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 1,
+            "Path": "//Document/Sect[5]/Footnote",
+            "Text": "1 Effective October 12, 2017, pursuant to Executive Order 13761 (as amended by Executive Order 13804), U.S. persons are no longer prohibited from engaging in transactions that were previously prohibited solely under the SSR. Consistent with the revocation of these sanctions, OFAC removed the SSR from the Code of Federal Regulations on June 29, 2018.  However, the revocation of these sanctions does not affect past, present, or future OFAC enforcement investigations or actions related to any apparent violations of the SSR arising from activities that occurred prior to October 12, 2017. ",
+            "TextSize": 9.960006713867188,
+            "attributes": {
+                "LineHeight": 11.5
+            }
+        },
+        {
+            "Bounds": [
+                72.0,
+                465.98399353027344,
+                216.70835876464844,
+                482.5919952392578
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PS",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PS",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "WFMGNQ+TimesNewRomanPS-BoldMT",
+                "subset": true,
+                "weight": 700
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 2,
+            "Path": "//Document/Sect[6]/H1",
+            "Text": "Compliance Considerations ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                163.0780029296875,
+                369.63600158691406,
+                405.6120147705078,
+                385.5959930419922
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PS",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PS",
+                "font_type": "TrueType",
+                "italic": true,
+                "monospaced": false,
+                "name": "CJKLOE+TimesNewRomanPS-ItalicMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[6]/P/StyleSpan/Reference",
+            "Text": "Framework for OFAC Compliance Commitments ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                72.0,
+                300.63600158691406,
+                533.4000854492188,
+                454.8000030517578
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 2,
+            "Path": "//Document/Sect[6]/P",
+            "Text": "This action highlights that money services businesses—like all financial service providers—are responsible for ensuring that they do not engage in unauthorized transactions prohibited by OFAC sanctions, such as dealings with blocked persons or property, or engaging in prohibited trade-related transactions with jurisdictions and regions subject to sanctions.  To mitigate such risks, money services businesses should develop a tailored, risk-based sanctions compliance program.  OFAC’s notes that each risk-based sanctions compliance program will vary depending on a variety of factors, including the company’s size and sophistication, products and services, customers and counterparties, and geographic locations, but should be predicated on and incorporate at least five essential components of compliance: (1) management commitment; (2) risk assessment; (3) internal controls; (4) testing and auditing; and (5) training.  ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                72.0,
+                204.03599548339844,
+                541.6799926757812,
+                289.1999969482422
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 2,
+            "Path": "//Document/Sect[6]/P[2]",
+            "Text": "Within that framework, this enforcement action emphasizes the importance of effective screening not only for persons on the SDN List but also for sanctioned locations; ensuring that audits of OFAC compliance programs focus not only on persons on the SDN List but also on sanctioned locations; performing algorithm testing to be sure filters are flagging payments within expected parameters; screening for BIC codes, especially when OFAC includes them in SDN List entries; and holding flagged payments until they have been reviewed. ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                72.0,
+                176.1840057373047,
+                320.2197570800781,
+                192.79200744628906
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PS",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PS",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "WFMGNQ+TimesNewRomanPS-BoldMT",
+                "subset": true,
+                "weight": 700
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 2,
+            "Path": "//Document/Sect[7]/H1",
+            "Text": "OFAC Enforcement and Compliance Resources ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                239.08599853515625,
+                148.95599365234375,
+                491.8680877685547,
+                164.91600036621094
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PS",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PS",
+                "font_type": "TrueType",
+                "italic": true,
+                "monospaced": false,
+                "name": "CJKLOE+TimesNewRomanPS-ItalicMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[7]/P/StyleSpan/Reference",
+            "Text": "A Framework for OFAC Compliance Commitments ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                72.0,
+                79.95599365234375,
+                534.1679992675781,
+                165.1199951171875
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 2,
+            "Path": "//Document/Sect[7]/P",
+            "Text": "On May 2, 2019, OFAC published in order to provide organizations subject to U.S. jurisdiction, as well as foreign entities that conduct business in or with the United States or U.S. persons, or that use U.S.-origin goods or services, with OFAC’s perspective on the essential components of a sanctions compliance program.  The Framework also outlines how OFAC may incorporate these components into its evaluation of apparent violations and resolution of investigations resulting in settlements.  The Framework ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                72.0,
+                677.5559997558594,
+                540.2280883789062,
+                721.3200073242188
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 3,
+            "Path": "//Document/Sect[7]/P[2]",
+            "Text": "includes an appendix that offers a brief analysis of some of the root causes of apparent violations of U.S. economic and trade sanctions programs OFAC has identified during its investigative process. ",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                210.73800659179688,
+                594.7559967041016,
+                422.83599853515625,
+                610.9199981689453
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 3,
+            "Path": "//Document/Sect[7]/P[3]/StyleSpan/Reference",
+            "Text": "http://www.treasury.gov/ofac/enforcement",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                72.0,
+                594.7559967041016,
+                533.5200042724609,
+                666.1199951171875
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 3,
+            "Path": "//Document/Sect[7]/P[3]",
+            "Text": "Information concerning the civil penalties process can be found in the OFAC regulations governing each sanctions program; the Reporting, Procedures, and Penalties Regulations, 31 C.F.R. part 501; and the Economic Sanctions Enforcement Guidelines, 31 C.F.R. part 501, app. A. These references, as well as recent final civil penalties and enforcement information, can be found on OFAC’s website at . ",
+            "TextSize": 12.0,
+            "attributes": {
+                "SpaceAfter": 18
+            }
+        },
+        {
+            "Bounds": [
+                380.02699279785156,
+                567.156005859375,
+                525.8260040283203,
+                583.3200073242188
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 3,
+            "Path": "//Document/Sect[7]/P[4]/StyleSpan/Reference",
+            "Text": "http://www.treasury.gov/ofac",
+            "TextSize": 12.0
+        },
+        {
+            "Bounds": [
+                72.0,
+                567.156005859375,
+                529.5599975585938,
+                583.3200073242188
+            ],
+            "Font": {
+                "alt_family_name": "Titlingmes New Roman PSMT",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Titlingmes New Roman PSMT",
+                "font_type": "TrueType",
+                "italic": false,
+                "monospaced": false,
+                "name": "HIFZLU+TimesNewRomanPSMT",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 3,
+            "Path": "//Document/Sect[7]/P[4]",
+            "Text": "For more information regarding OFAC regulations, please visit: . ",
+            "TextSize": 12.0
+        }
+    ],
+    "pages": [
+        {
+            "boxes": {
+                "CropBox": [
+                    0.0,
+                    0.0,
+                    612.0,
+                    792.0
+                ],
+                "MediaBox": [
+                    0.0,
+                    0.0,
+                    612.0,
+                    792.0
+                ]
+            },
+            "height": 792.0,
+            "page_number": 0,
+            "rotation": 0,
+            "width": 612.0
+        },
+        {
+            "boxes": {
+                "CropBox": [
+                    0.0,
+                    0.0,
+                    612.0,
+                    792.0
+                ],
+                "MediaBox": [
+                    0.0,
+                    0.0,
+                    612.0,
+                    792.0
+                ]
+            },
+            "height": 792.0,
+            "page_number": 1,
+            "rotation": 0,
+            "width": 612.0
+        },
+        {
+            "boxes": {
+                "CropBox": [
+                    0.0,
+                    0.0,
+                    612.0,
+                    792.0
+                ],
+                "MediaBox": [
+                    0.0,
+                    0.0,
+                    612.0,
+                    792.0
+                ]
+            },
+            "height": 792.0,
+            "page_number": 2,
+            "rotation": 0,
+            "width": 612.0
+        },
+        {
+            "boxes": {
+                "CropBox": [
+                    0.0,
+                    0.0,
+                    612.0,
+                    792.0
+                ],
+                "MediaBox": [
+                    0.0,
+                    0.0,
+                    612.0,
+                    792.0
+                ]
+            },
+            "height": 792.0,
+            "page_number": 3,
+            "rotation": 0,
+            "width": 612.0
+        }
+    ]
+}

@@ -1,0 +1,324 @@
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <style>
+        * {
+            box-sizing: border-box
+        }
+
+        /* Slideshow container */
+        .slideshow-container {
+            max-width: 1000px;
+            position: relative;
+            margin: auto;
+        }
+
+        /* Hide the images by default */
+        .mySlides {
+            display: none;
+        }
+
+        /* Next & previous buttons */
+        .prev,
+        .next {
+            cursor: pointer;
+            position: absolute;
+            top: 50%;
+            width: auto;
+            margin-top: -22px;
+            padding: 16px;
+            color: white;
+            background-color: rgba(0, 0, 0, 0.8);
+            font-weight: bold;
+            font-size: 18px;
+            transition: 0.6s ease;
+            border-radius: 0 3px 3px 0;
+            user-select: none;
+        }
+
+        /* Position the "next button" to the right */
+        .next {
+            right: 0;
+            border-radius: 3px 0 0 3px;
+        }
+
+        /* On hover, add a black background color with a little bit see-through */
+        .prev:hover,
+        .next:hover {
+            background-color: rgba(0, 0, 0, 0.8);
+        }
+
+        /* Caption text */
+        .text {
+            color: #f2f2f2;
+            font-size: 15px;
+            padding: 8px 12px;
+            position: absolute;
+            bottom: 8px;
+            width: 100%;
+            text-align: center;
+        }
+
+        /* Number text (1/3 etc) */
+        .numbertext {
+            color: #f2f2f2;
+            font-size: 12px;
+            padding: 8px 12px;
+            position: absolute;
+            top: 0;
+        }
+
+        /* The dots/bullets/indicators */
+        .dot {
+            cursor: pointer;
+            height: 15px;
+            width: 15px;
+            margin: 0 2px;
+            background-color: #bbb;
+            border-radius: 50%;
+            display: inline-block;
+            transition: background-color 0.6s ease;
+        }
+
+        .active,
+        .dot:hover {
+            background-color: #717171;
+        }
+
+        /* Fading animation */
+        .fade {
+            -webkit-animation-name: fade;
+            -webkit-animation-duration: 1.5s;
+            animation-name: fade;
+            animation-duration: 1.5s;
+        }
+
+        @-webkit-keyframes fade {
+            from {
+                opacity: .4
+            }
+
+            to {
+                opacity: 1
+            }
+        }
+
+        @keyframes fade {
+            from {
+                opacity: .4
+            }
+
+            to {
+                opacity: 1
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div style='position: fixed; left: 0; top: 50%; transform: translateY(-50%); width: 45%; padding-left: 5%'>
+        <div id="slideshow-container" class="slideshow-container">
+            <div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="page-images/0001.jpg" style="width:100%">
+    <div class="text"></div>
+</div>
+<div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="page-images/0002.jpg" style="width:100%">
+    <div class="text"></div>
+</div>
+<div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="page-images/0003.jpg" style="width:100%">
+    <div class="text"></div>
+</div>
+<div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="page-images/0004.jpg" style="width:100%">
+    <div class="text"></div>
+</div>
+
+            <!-- Next and previous buttons -->
+            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+            <a class="next" onclick="plusSlides(1)">&#10095;</a>
+        </div>
+    </div>
+    <div style='position: absolute; left: 50%; top: 0; width: 44%; padding: 5%;'>
+        <div id="html-container">
+            <html>
+
+<body>
+    <section>
+        <p>DEPARTMENT OF THE TREASURY WASHINGTON, D.C. </p>
+    </section>
+    <section>
+        <h1>Enforcement Release: July 23, 2021* </h1>
+    </section>
+    <section>
+        <h1>OFAC Enters Into $1,385,901.40 Settlement with Payoneer Inc. for Apparent Violations of Multiple Sanctions
+            Programs </h1>
+        <p>Payoneer Inc. (“Payoneer”), a publicly traded New York-based online money transmitter and provider of prepaid
+            access, has agreed to remit $1,385,901.40 to settle its potential civil liability for 2,220 apparent
+            violations of multiple sanctions programs. Payoneer processed 2,201 payments for parties located in certain
+            jurisdictions and regions subject to sanctions including the Crimea region of Ukraine, Iran, Sudan, and
+            Syria, and 19 payments on behalf of sanctioned persons on OFAC’s List of Specially Designated Nationals and
+            Blocked Persons (“SDN List”). Payoneer’s sanctions compliance program deficiencies at the relevant
+            times—including with respect to screening, testing, auditing, and transaction review procedures—enabled
+            persons in these jurisdictions and regions and on the SDN List to engage in approximately $793,950.70 worth
+            of transactions. The settlement amount reflects OFAC’s determination that 2,201 of Payoneer’s apparent
+            violations were not voluntarily self-disclosed, 19 were voluntarily self-disclosed, and all transactions
+            were non-egregious. </p>
+    </section>
+    <section>
+        <h1>Description of the Conduct Leading to the Apparent Violations </h1>
+        <p>Between February 4, 2013 and February 20, 2018, Payoneer processed 2,220 transactions totaling $793,950.70 in
+            apparent violation of multiple OFAC-administered sanctions programs (the “Apparent Violations”). Payoneer’s
+            policies and procedures dating back as far as June 2015 specified that transactions involving parties in
+            sanctioned locations were prohibited, but the testing and auditing conducted to verify that these policies
+            and procedures were being implemented failed to identify the compliance deficiencies that led to the
+            Apparent Violations. </p>
+        <p>The Apparent Violations, which related to commercial transactions processed by Payoneer on behalf of its
+            corporate customers and card-issuing financial institutions, resulted from multiple sanctions compliance
+            control breakdowns, including (i) weak algorithms that allowed close matches to SDN List entries not to be
+            flagged by its filter, (ii) failure to screen for Business Identifier Codes (BICs) even when SDN List
+            entries contained them, (iii) during backlog periods, allowing flagged and pended payments to be
+            automatically released without review, and (iv) lack of focus on sanctioned locations, especially Crimea,
+            because it was not monitoring IP addresses or flagging addresses in sanctioned locations. </p>
+        <p><span>These compliance deficiencies resulted in apparent violations of Section 1(a)(iii) and Section 2 of
+                Executive Order 13685 of December 19, 2014, “Blocking Property of Certain Persons and Prohibiting
+                Certain Transactions with Respect to the Crimea Region of Ukraine”; the Zimbabwe Sanctions Regulations,
+                31 C.F.R. § 541.201; the Weapons of Mass Destruction Proliferators Sanctions Regulations, 31 C.F.R. §
+                544.201; the Iranian Transactions and Sanctions Regulations, 31 C.F.R. § 560.204; the now-repealed
+                Sudanese Sanctions Regulations (SSR), 31 C.F.R. § </span><span>538.205;1 (&lt;&gt;)and the Syrian
+                Sanctions Regulations, 31 C.F.R. § 542.207. </span></p>
+    </section>
+    <section>
+        <h1>Penalty Calculation and General Factors Analysis </h1>
+        <p>The statutory maximum civil monetary penalty applicable in this matter is $654,357,316. OFAC determined that
+            2,201 of the Apparent Violations were not voluntarily self-disclosed, 19 were voluntarily self-disclosed,
+            and all were non-egregious. Accordingly, under OFAC’s Economic Sanctions Enforcement Guidelines
+            (“Enforcement Guidelines”), the base civil monetary penalty amount applicable in this matter is $3,849,726.
+            The settlement amount of $1,385,901.40 reflects OFAC’s consideration of the General Factors under the
+            Enforcement Guidelines. </p>
+        <p>OFAC determined the following to be aggravating factors: </p>
+        <ul>
+            <li><span>1) </span><span>Payoneer failed to exercise a minimal degree of caution or care for its sanctions
+                    compliance obligations when it allowed persons on the SDN List and persons in sanctioned locations
+                    to open accounts and transact as a result of deficient sanctions compliance processes that persisted
+                    for a number of years; </span></li>
+            <li><span>2) </span><span>Payoneer had reason to know the location of the users it subsequently identified
+                    as located in jurisdictions and regions subject to sanctions based on common indicators of location
+                    within its possession, including billing, shipping, or IP addresses, or copies of identification
+                    issued in jurisdictions and regions subject to sanctions; and </span></li>
+            <li><span>3) </span><span>The Apparent Violations caused harm to six different sanctions programs. </span>
+            </li>
+        </ul>
+        <p>OFAC determined the following to be mitigating factors: </p>
+        <ul>
+            <li><span>1) </span><span>Upon discovering potential sanctions compliance issues, senior management acted
+                    quickly to self-disclose the Apparent Violations related to blocked persons and provided substantial
+                    cooperation throughout the investigation; </span></li>
+            <li><span>2) </span><span>Payoneer has not received a penalty notice or Finding of Violation from OFAC in
+                    the five years preceding the date of the earliest transaction giving rise to the Apparent
+                    Violations; </span></li>
+            <li><span>3) </span><span><span>Payoneer has represented that it has terminated the conduct that led to the
+                        Apparent Violations and undertook the following remedial measures intended to minimize the risk
+                        of recurrence of similar conduct in the future: </span>
+                    <ul>
+                        <li><span>• </span><span>Replacing its Chief Compliance Officer, retraining all compliance
+                                employees, and hiring new compliance positions focused specifically on testing; </span>
+                        </li>
+                        <li><span>• </span><span>Enhancing its screening software to include financial institution alias
+                                names and BIC codes and automatically triggering a manual review of payments or accounts
+                                that match persons on the SDN List; </span></li>
+                        <li><span>• </span><span>Enabling the screening of names, shipping and billing addresses, and IP
+                                information associated with account holders to identify jurisdictions and regions
+                                subject to sanctions; </span></li>
+                        <li><span>• </span><span>Pending transactions flagged by its filter instead of allowing them to
+                                complete during a backlog; and </span></li>
+                        <li><span>• </span><span>A daily review of identification documents uploaded to Payoneer, and a
+                                rule engine that stops payments with identification indicating jurisdictions and regions
+                                subject to sanctions. </span></li>
+                    </ul>
+                </span></li>
+            <li><span>4) </span><span>As part of its agreement with OFAC, Payoneer has undertaken to continue its
+                    implementation of these and other compliance commitments. </span></li>
+        </ul>
+    </section>
+    <section>
+        <h1>Compliance Considerations </h1>
+        <p><span><a>Framework for OFAC Compliance Commitments </a></span>This action highlights that money services
+            businesses—like all financial service providers—are responsible for ensuring that they do not engage in
+            unauthorized transactions prohibited by OFAC sanctions, such as dealings with blocked persons or property,
+            or engaging in prohibited trade-related transactions with jurisdictions and regions subject to sanctions. To
+            mitigate such risks, money services businesses should develop a tailored, risk-based sanctions compliance
+            program. OFAC’s notes that each risk-based sanctions compliance program will vary depending on a variety of
+            factors, including the company’s size and sophistication, products and services, customers and
+            counterparties, and geographic locations, but should be predicated on and incorporate at least five
+            essential components of compliance: (1) management commitment; (2) risk assessment; (3) internal controls;
+            (4) testing and auditing; and (5) training. </p>
+        <p>Within that framework, this enforcement action emphasizes the importance of effective screening not only for
+            persons on the SDN List but also for sanctioned locations; ensuring that audits of OFAC compliance programs
+            focus not only on persons on the SDN List but also on sanctioned locations; performing algorithm testing to
+            be sure filters are flagging payments within expected parameters; screening for BIC codes, especially when
+            OFAC includes them in SDN List entries; and holding flagged payments until they have been reviewed. </p>
+    </section>
+    <section>
+        <h1>OFAC Enforcement and Compliance Resources </h1>
+        <p><span><a>A Framework for OFAC Compliance Commitments </a></span>On May 2, 2019, OFAC published in order to
+            provide organizations subject to U.S. jurisdiction, as well as foreign entities that conduct business in or
+            with the United States or U.S. persons, or that use U.S.-origin goods or services, with OFAC’s perspective
+            on the essential components of a sanctions compliance program. The Framework also outlines how OFAC may
+            incorporate these components into its evaluation of apparent violations and resolution of investigations
+            resulting in settlements. The Framework </p>
+        <p>includes an appendix that offers a brief analysis of some of the root causes of apparent violations of U.S.
+            economic and trade sanctions programs OFAC has identified during its investigative process. </p>
+        <p><span><a>http://www.treasury.gov/ofac/enforcement</a></span>Information concerning the civil penalties
+            process can be found in the OFAC regulations governing each sanctions program; the Reporting, Procedures,
+            and Penalties Regulations, 31 C.F.R. part 501; and the Economic Sanctions Enforcement Guidelines, 31 C.F.R.
+            part 501, app. A. These references, as well as recent final civil penalties and enforcement information, can
+            be found on OFAC’s website at . </p>
+        <p><span><a>http://www.treasury.gov/ofac</a></span>For more information regarding OFAC regulations, please
+            visit: . </p>
+    </section>
+</body>
+
+</html>
+        </div>
+    </div>
+
+    <script>
+        var slideIndex = 1;
+        showSlides(slideIndex);
+
+        // Next/previous controls
+        function plusSlides(n) {
+            showSlides(slideIndex += n);
+        }
+
+        // Thumbnail image controls
+        function currentSlide(n) {
+            showSlides(slideIndex = n);
+        }
+
+        function showSlides(n) {
+            var i;
+            var slides = document.getElementsByClassName("mySlides");
+            var dots = document.getElementsByClassName("dot");
+            if (n > slides.length) { slideIndex = 1 }
+            if (n < 1) { slideIndex = slides.length }
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            for (i = 0; i < dots.length; i++) {
+                dots[i].className = dots[i].className.replace(" active", "");
+            }
+            slides[slideIndex - 1].style.display = "block";
+            dots[slideIndex - 1].className += " active";
+        }
+    </script>
+</body>
+
+</html>
